@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+# Fonts & data & tests
+*.ttf
+*.json
+*.pickle
+test.py
+test.ipynb
+
 # Distribution / packaging
 .Python
 build/
